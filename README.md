@@ -19,7 +19,7 @@
 
 Full stack engineer with 5+ years building stateful enterprise applications, complex client-side architectures, and automated test infrastructure. Currently at **Accenture** owning case management systems with deterministic state lifecycles, SLA enforcement, and REST integration layers. Ships Rust/WASM modules alongside TypeScript. Comfortable debugging across network, state, and rendering layers.
 
-- Based in **Cebu City, Philippines** — open to **US remote** roles
+- Based in **Cebu City, Philippines** — open to **global remote** roles
 - BS Computer Engineering, Network Administration — **AMA University Cebu**
 - President's Lister | SSC President 2023 | 2020 ML eSports Champion
 
