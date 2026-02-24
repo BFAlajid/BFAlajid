@@ -103,28 +103,17 @@ Honors    :  President's Lister · SSC President 2023 · 2020 ML eSports Champio
 ### GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BFAlajid&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58a6ff&ring_color=58a6ff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BFAlajid&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=BFAlajid&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BFAlajid&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BFAlajid&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFAlajid&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BFAlajid&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BFAlajid&theme=github-dark-blue&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BFAlajid&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=BFAlajid&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BFAlajid&theme=github_dark" alt="Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BFAlajid&theme=github_dark" alt="Top Languages by Repo" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BFAlajid&theme=github_dark" alt="Top Languages by Commit" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BFAlajid&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BFAlajid&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
