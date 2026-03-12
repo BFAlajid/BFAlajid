@@ -28,7 +28,7 @@ Full stack engineer with 5+ years shipping stateful enterprise applications, com
 Ships Rust/WASM modules alongside TypeScript. Debugs across network, state, and rendering layers.
 
 ```
-Location  :  Cebu City, Philippines — open to US remote
+Location  :  Cebu City, Philippines — open to global remote
 Education :  BS Computer Engineering, Network Administration — AMA University Cebu
 Honors    :  President's Lister · SSC President 2023 · 2020 ML eSports Champion
 ```
